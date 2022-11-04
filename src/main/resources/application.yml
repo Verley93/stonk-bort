@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: stonk-bort
+
+alpaca:
+  market-data:
+    url: https://data.sandbox.alpaca.markets
+  stream:
+    url: wss://stream.data.sandbox.alpaca.markets
+  trading:
+    url: https://paper-api.alpaca.markets
